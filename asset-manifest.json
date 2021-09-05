@@ -1,26 +1,26 @@
 {
-  "files": {
-    "main.css": "/SaravanakumarVijay/SKClicks/static/css/main.4f2c9496.chunk.css",
-    "main.js": "/SaravanakumarVijay/SKClicks/static/js/main.cc598718.chunk.js",
-    "main.js.map": "/SaravanakumarVijay/SKClicks/static/js/main.cc598718.chunk.js.map",
-    "runtime-main.js": "/SaravanakumarVijay/SKClicks/static/js/runtime-main.0885c40b.js",
-    "runtime-main.js.map": "/SaravanakumarVijay/SKClicks/static/js/runtime-main.0885c40b.js.map",
-    "static/css/2.cd58d23e.chunk.css": "/SaravanakumarVijay/SKClicks/static/css/2.cd58d23e.chunk.css",
-    "static/js/2.e95e8b84.chunk.js": "/SaravanakumarVijay/SKClicks/static/js/2.e95e8b84.chunk.js",
-    "static/js/2.e95e8b84.chunk.js.map": "/SaravanakumarVijay/SKClicks/static/js/2.e95e8b84.chunk.js.map",
-    "index.html": "/SaravanakumarVijay/SKClicks/index.html",
-    "precache-manifest.f74c715169364ffaf71cca22b814c56d.js": "/SaravanakumarVijay/SKClicks/precache-manifest.f74c715169364ffaf71cca22b814c56d.js",
-    "service-worker.js": "/SaravanakumarVijay/SKClicks/service-worker.js",
-    "static/css/2.cd58d23e.chunk.css.map": "/SaravanakumarVijay/SKClicks/static/css/2.cd58d23e.chunk.css.map",
-    "static/css/main.4f2c9496.chunk.css.map": "/SaravanakumarVijay/SKClicks/static/css/main.4f2c9496.chunk.css.map",
-    "static/js/2.e95e8b84.chunk.js.LICENSE": "/SaravanakumarVijay/SKClicks/static/js/2.e95e8b84.chunk.js.LICENSE",
-    "static/media/photoswipe.css": "/SaravanakumarVijay/SKClicks/static/media/default-skin.b257fa9c.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.0885c40b.js",
-    "static/css/2.cd58d23e.chunk.css",
-    "static/js/2.e95e8b84.chunk.js",
-    "static/css/main.4f2c9496.chunk.css",
-    "static/js/main.cc598718.chunk.js"
-  ]
-}
+    "files": {
+      "main.css": "SKClicks/static/css/main.4f2c9496.chunk.css",
+      "main.js": "SKClicks/static/js/main.cc598718.chunk.js",
+      "main.js.map": "SKClicks/static/js/main.cc598718.chunk.js.map",
+      "runtime-main.js": "SKClicks/static/js/runtime-main.0885c40b.js",
+      "runtime-main.js.map": "SKClicks/static/js/runtime-main.0885c40b.js.map",
+      "static/css/2.cd58d23e.chunk.css": "SKClicks/static/css/2.cd58d23e.chunk.css",
+      "static/js/2.e95e8b84.chunk.js": "SKClicks/static/js/2.e95e8b84.chunk.js",
+      "static/js/2.e95e8b84.chunk.js.map": "SKClicks/static/js/2.e95e8b84.chunk.js.map",
+      "index.html": "SKClicks/index.html",
+      "precache-manifest.f74c715169364ffaf71cca22b814c56d.js": "SKClicks/precache-manifest.f74c715169364ffaf71cca22b814c56d.js",
+      "service-worker.js": "SKClicks/service-worker.js",
+      "static/css/2.cd58d23e.chunk.css.map": "SKClicks/static/css/2.cd58d23e.chunk.css.map",
+      "static/css/main.4f2c9496.chunk.css.map": "SKClicks/static/css/main.4f2c9496.chunk.css.map",
+      "static/js/2.e95e8b84.chunk.js.LICENSE": "SKClicks/static/js/2.e95e8b84.chunk.js.LICENSE",
+      "static/media/photoswipe.css": "SKClicks/static/media/default-skin.b257fa9c.svg"
+    },
+    "entrypoints": [
+      "static/js/runtime-main.0885c40b.js",
+      "static/css/2.cd58d23e.chunk.css",
+      "static/js/2.e95e8b84.chunk.js",
+      "static/css/main.4f2c9496.chunk.css",
+      "static/js/main.cc598718.chunk.js"
+    ]
+  }
